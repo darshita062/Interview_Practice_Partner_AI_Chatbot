@@ -112,7 +112,7 @@ This modular structure ensures:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/interview-practice-agent.git
+git clone https://github.com/darshita062/Interview_Practice_Partner_AI_Chatbot.git
 cd interview-practice-agent
 ```
 
@@ -426,3 +426,4 @@ VOICE_PAUSE_THRESHOLD = 1.5    # Seconds of silence before finalizing speech
 - [Streamlit Documentation](https://docs.streamlit.io)
 - [SpeechRecognition Library](https://github.com/Uberi/speech_recognition)
 - [Interview Preparation Tips](https://www.indeed.com/career-advice/interviewing/interview-preparation-tips)
+
